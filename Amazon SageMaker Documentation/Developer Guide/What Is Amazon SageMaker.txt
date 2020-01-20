@@ -1,0 +1,37 @@
+What Is Amazon SageMaker? 
+- M: Amazon SageMaker 는 뭔가?
+- G: Amazon SageMaker 란 무엇입니까?
+Amazon SageMaker is a fully managed machine learning service. 
+- M: Amazon SageMaker 는 완전히 관리된 머신러닝 서비스이다.
+- G: Amazon SageMaker 는 종합 관리형 기계 학습 서비스입니다.
+With Amazon SageMaker, data scientists and developers can quickly and easily build and train machine learning models, and then directly deploy them into a production-ready hosted environment.
+- M: Amazon SageMaker, 데이터 사이언티스트 그리고 개발자들은 빠르고 쉽게 짓고 교육할 수있다. 머신러닝모델들을, 그리고 그때, 곧바로 배포할 수 있다. 그들을 제품-준비 게시된 환경에서
+- G: Amazon SageMaker를 통해 데이터과학자와 개발자들은 기계 학습 모델을 빠르고 쉽게 구축하고 훈련시킬 수 있으며, 그리도 나서 이들 모델을 프로덕션 지원호스팅 환경에 직접 배포할 수 있습니다.
+It provides an integrated Jupyter authoring notebook instance for easy access to your data sources for exploration and analysis, so you don't have to manage servers.
+- M: 제공한다. 통합된 Jupyter 권한이 있는 노트북 객체를 쉬운 접근을 위한 당신의 데이터 소스에 실험과 분석을 위한, 그래서 당신은 서버를 관리할 필요가 없다.
+- G: 탐색 및 분석에 필요한 데이터 원본에 대한 쉬운 액세스를 위해 내장형 Jupyter 작성 노트북 인스턴스를 제공하기 때문에 서버를 관리할 필요가 없습니다.
+It also provides common machine learning algorithms that are optimized to run efficiently against extremely large data in a distributed environment.
+- M: 또한 제공한다. 공통적인 머신러닝 알고리즘을 최적화된 효율적으로 운영하기 위해 궁극적으로 큰 데이터에 반해서 배포된 환경 안에서 
+- G: 또한 분산된 환경 내 대규모 데이터를 효율적으로 실행하는 데 최적화된 일반 기계 학습 알고리즘 또한 제공한다.
+With native support for bring-your-own-algorithms and frameworks, Amazon SageMaker offers flexible distribured training options that adjust to your specific workflows.
+- M: 원칙적인 지원과 함께 가져오는-당신의-자신의-알고리즘 그리고 프레임워크들, Amazon SageMaker는 제공한다 유연한 유통된 교육 옵션들을 조정하는 당신의 명확한 업무흐름을 위해
+- G: BYOM(Bring-Your-Own-Algorithm) 및 프레임워크 기본 지원을 통해 Amazon SageMaker는 특정 워크플로에 맞춘 유연한 분산형 훈련 옵션을 제공합니다.
+Deply a model into a secure and scalable environment by launching it with a single click from the Amazon SageMaker console.
+- M: 배포한다. 모델을 안전과 확장할 수 있는 환경안에서 출시하기위해서 그것을 한번의 클릭으로 Amazon SageMaker 콘솔에서
+- G: Amazon SageMaker 콘솔에서 클릭 한 번으로 모델을 시작하고 안전하고 확장 가능한 환경으로 배포합니다.
+Training and hosting are billed by minutes of usage, with no minimum fees and no upfront commitments.
+- M: 교육과 호스팅은 청구된다. 분당 사용량에 의해서, 최소 요금과 사전 요금이 없는 것과 함께
+- G: 훈련 및 호스팅은 사용한 분 단위로 요금이 부과되고, 최소 요금 및 선수금이 없습니다.
+
+Topics
+- M: 주제
+- G: 주제
+Amazon SageMaker Features
+- M: Amazon SageMaker 특징
+- G: Amazon SageMaker 기능
+Amazon SageMaker Pricing
+- M: Amazon SageMaker 가격
+- G: Amazon SageMaker 요금
+Are you a First-time User of Amazon SageMaker?
+- M: 당신은 처음 사용하는 유저 Amazon SageMaker의 인가?
+- G: Amazon SageMaker를 처음 사용하십니까?
