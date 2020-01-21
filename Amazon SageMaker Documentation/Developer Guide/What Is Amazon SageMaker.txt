@@ -35,3 +35,28 @@ Amazon SageMaker Pricing
 Are you a First-time User of Amazon SageMaker?
 - M: 당신은 처음 사용하는 유저 Amazon SageMaker의 인가?
 - G: Amazon SageMaker를 처음 사용하십니까?
+
+Amazon SageMaker Features
+Amazon SageMaker includes the following features:
+- M: Amazon SageMaker 는 다음의 기능을 포함한다:
+- G: Amazon SageMaker 에는 다음 기능이 포함됩니다.
+
+Amazon SageMaker Studio: An integrated machine learnig environment where you can build, train, deploy, and analyze your models all in the same application.
+- M: Amazon SageMaker 스튜디오: 내장형 기계 학습 환경, 당신이 구축, 훈련, 배포 그리고 분석하는, 당신의 모델들을 모든, 같은 애플리케이션에서
+- G: Amazon SageMaker Studio: 동일한 애플리케이션에서 모델을 모두 빌드, 훈련, 배포 및 분석할 수 있는 통합 기계 학습 환경입니다.
+
+Amazon SageMaker Ground Truth: High-quality training datasets by using workers along with machine learning to create labeled datasets.
+- M: Amazon SageMaker 땅 진실: 높은 품질의 훈련 데이터셋들, 작업자를 사용함으로써, 기계 학습과 함께, 명시된 데이터셋을 만들기 위해서
+- G: Amazon SageMaker 실측 정보: 기계 학습과 함께 작업자를 사용하여 레이블이 지정된 데이터 세트를 생성하는 고품질 훈련 데이터 세트입니다.
+
+Amazon Augmented AI: Human-in-the-loop reviews
+- M: Amazon 증가된 AI: 인간이 반복하는 리뷰
+- G: Amazon Augmented AI: HITL(Human-in-the-Loop) 리뷰
+
+Amazon SageMaker Studio Notebooks: The next generation of Amazon SageMaker notebooks that include SSO integrated, fast start-up times, and single-click sharing.
+- M: Amazon SageMaker 스튜디오 노트북들: 다음의 발생, Amazon SageMaker 노트북들의 내장된 SSO가 포함된, 빠른 시작 시간, 그리고 단방향 클릭 공유
+- G: Amazon SageMaker Studio Notebooks: SSO 통합, 빠른 시작 시간 및 단일 클릭 공유 등의 기능을 포함하고 있는 차세대 Amazon SageMaker 노트북입니다.
+
+Preprocessing: Analyze and pre-process data, tackle feature engineering, and evaluate models.
+- M: 처리: 분석과 사전 프로세스 데이터, 추가 특징 기술, 그리고 평가한다. 모델들을
+- G: 사전 처리: 데이터를 분석 및 사전 처리하고, 기능 엔지니어링 문제를 해결하며, 모델을 평가합니다.
