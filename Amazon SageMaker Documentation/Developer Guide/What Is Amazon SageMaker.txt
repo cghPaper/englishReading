@@ -60,3 +60,27 @@ Amazon SageMaker Studio Notebooks: The next generation of Amazon SageMaker noteb
 Preprocessing: Analyze and pre-process data, tackle feature engineering, and evaluate models.
 - M: 처리: 분석과 사전 프로세스 데이터, 추가 특징 기술, 그리고 평가한다. 모델들을
 - G: 사전 처리: 데이터를 분석 및 사전 처리하고, 기능 엔지니어링 문제를 해결하며, 모델을 평가합니다.
+
+Amazon SageMaker Experiments: Experiment management and tracking. You can use the tracked data to reconstruct an experiment, incrementally build on experiments conducted by peers, and trace model lineage for compliance and audit verifications.
+- M: Amazon SageMaker 실험들: 실험한다. 관리와 훈련을 당신은 훈련된 데이터를 사용할 수 있다. 실험을 재구성하기 위해서, 점진적으로 구축한다. 실험들을 동료들에 의해 구성된, 그리고 모델 선을 추적한다. 준수와 증명을 위해서
+- G: Amazon SageMaker 실험: 실험 관리 및 추적, 추적된 데이터를 사용하여 실험을 재구성하고, 동료들이 수행한 실험을 기반으로 점진적으로 빌드를 수행하며, 규정 준수 및 감사 검증을 위해 모델 계통을 추적할 수 있습니다.
+
+Amazon SageMaker Debugger: Inspect training parameters and data throughout the training process. Automatically detect and alert users to commonly occurring errors such as parameter values getting too large or small.
+- M: Amazon SageMaker 디버거: 검사한다. 훈련 파라미터들을 그리고 데이터를 훈련 프로세스를 통해서. 자동적으로 검사한다. 그리고 경고한다. 유저에게 평범하게 발생한 에러들을 파라미터 값들과 같은 너무 크거나 또는 작은 데이터를 얻은
+- G: Amazon SageMaker Debugger: 훈련 프로세스 전반에 걸쳐 훈련 파리미터 및 데이터를 검사합니다. 파라미터 값이 너무 크거나 작아지는 등 일반적으로 발생하는 오류를 자동으로 감지하여 사용자에게 알립니다.
+
+Amazon SageMaker Autopilot: Users without machine learning knowledge can quickly build classification and regression models.
+- M: Amazon SageMaker 자동파일럿: 사용자들은 기계 학습 지식 없이 빠르게 구축할 수있다. 분류와 침체 모델들을
+- G: Amazon SageMaker Autopilot: 기계 학습 지식이 없는 사용자도 분류 및 회귀 모델을 신속하게 구축할 수 있습니다.
+
+Reinforcement Learing: Maximize the long-term reward that an agent receives as a result of its actions.
+- M: 재가용 학습: 최대화 한다. 장기적인 보상을 한 에이전트가 받는. 그것의 액션을 결과로써
+- G: 강화 학습: 행동의 결과로 에이전트가 받게 되는 장기 보상을 극대화하는 것입니다.
+
+Batch Transform: Preprocess datasets, run inference when you don't need a persistent endpoint, and associate input records with inferences to assist the interpretation of results.
+- M: 배치 변형: 사전처리한다. 데이터셋을, 작동시킨다. 인터페이스를 당신이 지속적인 끝지점이 필요없을 때, 그리고 관련시킨다. 입력 레코드들을 참조와 함께 결과의 해석을 도와주는
+- G: 배치 변환: 데이터 세트를 사전처리하고, 영구 엔드포인트가 필요하지 않을 때 추론을 실행하며, 결과 해석을 지원하기 위해 입력 레코드를 추론과 연관시킵니다.
+
+Amazon SageMaker Model Monitor: Monitor and analyze models in production (endpoints) to detect data drift and deviaions in model quality.
+- M: Amazon SageMaker 모델 모니터: 모니터한다. 그리고 분석한다 모델들을 생산에 (엔드포인트들) 감지하기 위해서 데이터 변화 및 이상 모뎉 품질에
+- G: Amazon SageMaker Model Monitor: 프로덕션 단계(엔드포인트)의 모델을 모니터링 및 분석하여 모델 품질의 데이터 드리프트 및 편차를 감지합니다.
