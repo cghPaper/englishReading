@@ -84,3 +84,42 @@ Batch Transform: Preprocess datasets, run inference when you don't need a persis
 Amazon SageMaker Model Monitor: Monitor and analyze models in production (endpoints) to detect data drift and deviaions in model quality.
 - M: Amazon SageMaker 모델 모니터: 모니터한다. 그리고 분석한다 모델들을 생산에 (엔드포인트들) 감지하기 위해서 데이터 변화 및 이상 모뎉 품질에
 - G: Amazon SageMaker Model Monitor: 프로덕션 단계(엔드포인트)의 모델을 모니터링 및 분석하여 모델 품질의 데이터 드리프트 및 편차를 감지합니다.
+
+Amazon SageMaker Neo: Train machine learning models once, then run anywhere in the cloud and at the edge.
+- M: Amazon SageMaker Neo: 훈련해라 기계학습모델들을 즉시, 그 후 어디서든 작동된다. 클라우드 그리고 최종적에서
+- G: Amazon SageMaker Neo: 기계 학습 모델을 한 번 교육한 다음, 클라우드와 에지 어디에서나 실행합니다.
+
+Amazon SageMaker Elastic inference: Speed up the throughput and decrease the latency of getting real-time inferences.
+- M: Amazon SageMaker 고급스러운 영향: 속도를 높인다. 통과 및 감소 실시간 영향의 자유도를
+- G: Amazon SageMaker Elastic inference: 처리 속도를 높이고 실시간 추론 결과를 가져오는 대기 시간을 줄입니다.
+
+Amazon SageMaker Pricing
+- M: Amazon SageMaker 가격
+- G: Amazon SageMaker 요금
+
+As with other AWS products, there are no contracts or minimum commitments for using Amazon SageMaker. 
+- M: 다른 AWS 제품들과 함께, 있지 않다. 상호작용 또는 최소한의 내용 Amazon SageMaker를 사용하는데 있어서
+- G: 다른 AWS 제품과 마찬가지로 Amazon SageMaker 사용에 대한 계약이나 최소 약정이 없습니다.
+
+For more information about the cost of using Amazon SageMaker, see Amazon SageMaker Pricing.
+- M: 좀 많은 정보를 위하여 Amazon SageMaker를 사용하는 비용에 대해서, Amazon SageMaker 요금을 봐라.
+- G: Amazon SageMaker 사용 비용에 대한 자세한 내용은 Amazon SageMaker 가격을 참조하십시오.
+
+Are You a First-time User of Amazon SageMaker?
+- M: 당신은 첫 유저 Amazon SageMaker의 인가요?
+- G: Amazon SageMaker를 처음 사용하십니까?
+
+If you are a first-time user of Amazon SageMaker, we recommend that you do the following.
+- M: 당신이 Amazon SageMaker의 첫 사용자라면, 우리는 당신이 다음의 것을 할 것을 추천합니다.
+- G: Amazon SageMaker를 처음 사용할 경우 다음을 수행하는 것이 좋습니다.
+
+1. Read How Amazon SageMaker works - This section provides an overview of Amazon SageMaker, explains key concepts, and descrives the core components involved in building AI solutions with Amazon SageMaker. 
+                                     We recommend that you read this topic in the order presented.
+- M: 읽어라 어떻게 Amazon SageMaker  가 작동하는지 - 이 섹션은 제공한다. Amazon SageMaker 의 대략적인 내용을, 설명한다 핵심 개념을, 그리고 설명한다. 중요 컴포넌트를 AI 솔루션을 구축하는데 관련된 Amazon SageMaker와 함께, 
+                                                   우리는 추천한다. 당신이 이 주제를 읽을 것을 제공된 순서에 맞게
+- G: Amazon SageMaker 작동 방식 읽기 - 이 단원은 Amazon SageMaker의 개요를 제공하고, 핵심 개념을 설명하며, Amazon SageMaker 를 사용한 AI 솔루션 구축에 포함된 핵심 구성 요소를 설명합니다. 
+                                      이 주제를 표시된 순서대로 읽는 것이 좋습니다.
+
+2. Read Get Started with Amazon SageMaker - This section explains how to set up your account and create your first Amazon SageMaker notebook instance.
+- M: Amazon SageMaker에 관한 시작 가이드를 읽기 - 이 단원은 설명한다. 어떻게 설정하는지 당신의 계정 및 당신의 첫 Amazon SageMaker 노트북 객체를 생성을
+- G: Amazon SagaMaker를 시작하기 읽기 - 이 단원에서는 계정을 설정하고 첫 번째 Amazon SageMaker 노트북 인스턴스를 생성하는 방법을 설명합니다.
