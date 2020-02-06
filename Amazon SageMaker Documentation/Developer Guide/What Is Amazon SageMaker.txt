@@ -123,3 +123,36 @@ If you are a first-time user of Amazon SageMaker, we recommend that you do the f
 2. Read Get Started with Amazon SageMaker - This section explains how to set up your account and create your first Amazon SageMaker notebook instance.
 - M: Amazon SageMaker에 관한 시작 가이드를 읽기 - 이 단원은 설명한다. 어떻게 설정하는지 당신의 계정 및 당신의 첫 Amazon SageMaker 노트북 객체를 생성을
 - G: Amazon SagaMaker를 시작하기 읽기 - 이 단원에서는 계정을 설정하고 첫 번째 Amazon SageMaker 노트북 인스턴스를 생성하는 방법을 설명합니다.
+
+3. Try a model training exercise - This exercise walks you through training your first model. 
+                                   You use training algorithms provided by Amazon SageMaker. 
+                                   For more information, see Get Started with Amazon SageMaker.
+- M: 시도해라, 모델 훈련 경험을 - 이 경험은 걷는다. 당신에게 당신의 첫 모델 훈련을 통해서
+                                당신은 사용한다. 훈련 알고리즘을 Amazon SageMaker에서 제공된
+                                추가적인 정보는, 봐라 Amzon SageMaker 시작 메뉴얼을
+- G: 모델 훈련 연습 시도 - 이 연습은 첫 번째 모델 훈련을 안내합니다.
+                          Amazon SageMaker 에서 제공된 훈련 알고리즘을 사용합니다.
+                          자세한 내용은 Amazon SageMaKer 시작하기 단원을 참조하십시오.
+
+4. Explore other topics - Depending on your needs, do the following:
+    + Submit python code to train with deep learning frameworks - In Amazon SageMaker, you can use your own training scripts to train models.
+                                                                  For information, see Use Machine Leaning Frameworks with Amazon SageMaker.
+    + Use Amazon SageMaker directly from Apache Spark - For information, see Use Apache Spark with Amazon SageMaker.
+    + Use Amazon AI to train and/or deploy your own custom algorithms - Package your custom algorithms with Docker so you can train and/or deploy them in Amazon SageMaker.
+                                                                        See Use Your Own Algorithms or Models with Amazon SageMaker to learn how Amazon SageMaker interacts with Docker containers, and for the Amazon SageMaker requirements for Docker images.
+- M: 탐색해라 다른 주제들을 - 당신의 필요에 따라서, 다음을 해라:
+    + 파이썬 코드를 제출해라. 딥러닝 프레임워크들을 훈련시키기 위해서 - Amazon SageMaker에서, 당신은 사용할 수 있다. 당신 자신의 훈련 스크립트를 모델을 훈련시키기 위해서
+                                                                   정보를 위해서, 봐라 Amazon SageMaker로 기계 학습 프레임워크들 사용법을
+    + 사용해라 Amazon SageMaker를 직접적으로 Apache Spark 에서 - 정보를 위해서, 봐라 Amazon SageMaker로 Apache Spark를 사용법을 
+    + 사용해라 Amazon AI를 훈련 과/또는 배포 하기위해서 당신 소유의 맞춤형 알고리즘들을 - 포장해라 당신의 맞춤형 알고리즘들을 Docker 로 그래서 당신은 훈련 과/또는 배포 할 수 있다. 그것들을 Amazon SageMaker 를
+                                                                                     봐라 당신 자신의 알고리즘 사용법 또는 모델들을 Amazon SageMaker 를 통해서 학습하기 위한 어떻게 Amazon SageMaker 를 상호작용할 것 인지 Docker 컨테이너를 통해서, 그리고 Amazon SageMaker 요구사항을 통해서, Docker 이미지들을 통해서
+- G: 기타 주제 알아보기 - 필요에 따라 다음을 수행하십시오.
+    + 딥 러닝 프레임워크를 사용하여 훈련시킬 Python 코드 제출 - Amazon SageMaker 에서 자체 훈련 스크립트를 사용하여 모델을 훈련시킬 수 있습니다.
+                                                            자세한 정보는 Amazon SageMaker에서 기계 학습 프레임워크 사용 단원을 참조하십시오.
+    + Apache Spark 에서 Amazon SageMaker 직접 사용 - 자세한 정보는 Amazon SageMaker 에서 Apache Spark 사용 단원을 참조하십시오.
+    + Amazon AI 를 사용하여 자체 사용자 지정 알고리즘 훈련 및/또는 배포 - 도커를 사용하여 사용자 지정 알고리즘을 패키징하면 Amazon SageMaker 에서 이를 훈련 및/또는 배포할 수 있습니다.
+                                                                      Amazon SageMaker 가 도커 컨테이너와 상호 작용하는 방법과 도커 이미지에 대한 Amazon SageMaker 요구 사항은 Amazon SageMaker 에서 자체 알고리즘 또는 모델 사용 단원을 참조하십시오.
+ 
+ 5. See the API Reference - This section describes the Amazon SageMaker API operations.
+ - M: 봐라 API 참고서를 - 이 단원은 설명한다 Amazon SageMaker API 운영지침을
+ - G: API 참조 참조 - 이 단원은 Amazon SageMaker API 작업을 설명합니다.
