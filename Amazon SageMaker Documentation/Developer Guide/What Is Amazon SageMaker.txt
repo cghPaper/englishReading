@@ -156,3 +156,46 @@ If you are a first-time user of Amazon SageMaker, we recommend that you do the f
  5. See the API Reference - This section describes the Amazon SageMaker API operations.
  - M: 봐라 API 참고서를 - 이 단원은 설명한다 Amazon SageMaker API 운영지침을
  - G: API 참조 참조 - 이 단원은 Amazon SageMaker API 작업을 설명합니다.
+
+
+How It Works
+- M: 어떻게 그것은 움직이나
+- G: 작동 방식0
+
+Machine Learning with Amazon SageMaker.
+- M: 기계 학습 Amazon SageMaker를 통해서
+- G: Amazon SageMaker를 사용한 기계 학습
+
+This section describes a typical machine learning workfolw and summarizes how you accomplish those tasks with Amazon SageMaker.
+- M: 이 단원은 설명한다. 전형적인 기계 학습 흐름과 요약을 그리고 요약한다. 당신이 그들의 임무를 성취하는 방법을 Amazon SageMaker를 통해서.
+- G: 이 단원은 일반적인 기계 학습 워크플로우를 설명하고 Amazon SageMaker를 사용하여 작업을 완료하는 방법을 요약합니다.
+
+In machine learning, you "teach" a computer to make predictions, or inferences.
+- M: 기계 학습에서, 당신은 컴퓨터를 "가르친다." 발견 또는 영향을 만들기 위해서
+- G: 기계 학습에서는 컴퓨터를 "교육"하여 예측, 이른바 추론을 만들어냅니다.
+
+First, you use an algorithm and example data to train a model.
+- M: 첫번째, 당신은 사용한다. 알고리즘과 사례 데이터를 모델을 훈련시키기 위해서
+- G: 우선 알고리즘과 예제 데이터를 사용하여 모델을 교육합니다.
+
+Then you integrate your model into your application to generate inferences in real time and at scale.
+- M: 그 후, 당신은 통합한다. 당신의 모델을 당신의 애플리케이션에서 영향을 발생시키기 위해서 실시간과 규모로
+- G: 그런 다음 모델을 애플리케이션에 통합하여 실시간으로 규모에 따라 추론을 생성합니다.
+
+In a production environment, a model typically learns from millions of example data items and produces inferences in hundreds to less than 20 milliseconds.
+- M: 생산 환경에서, 모델은 정형적으로 배운다. 수만의 사례 데이터 아이템들에서 그리고 생산한다 영향을 20 밀리세컨드 보다 적은 몇백에
+- G: 프로덕션 환경에서 모델은 수백만 개의 예제 데이터 항목을 학습하고 수백 가지의 추론을 20밀리초안에 생산합니다.
+
+The following diagram illustrates the typical workflow for creating a machine learning model:
+- M: 다음의 다이아그램은 묘사한다. 전형적인 흐름을 기계 학습 모델을 만들기 위한
+- G: 다음 다이어그램은 기계 학습 모델 생성에 대한 일반 워크플로우를 보여줍니다.
+
+[diagram]
+Generate example data -> Train a model -> Deploy the model -> Generate example data -> ...
+- Generate example data: Fetch -> Clean -> Prepare
+- Train a model: Train Model -> Evaluate Model
+- Deploy the model: Deploy to production -> Monitor / collect data / evaluate
+
+As the diagram illustrates, you typically perform the following activities:
+- M: 그 다이아그램을 설명함으로써, 당신은 전형적으로 수행한다 다음의 행위들을
+- G: 다이어그램과 같이 일반적으로 다음 활동을 수행합니다.
